@@ -1,0 +1,9 @@
+[submodule "Agent3Sigma-Sweep"]
+	path = Agent3Sigma-Sweep
+	url = https://github.com/FIND-Lab/Agent3Sigma-Sweep.git
+[submodule "Agent3Sigma-Stage"]
+	path = Agent3Sigma-Stage
+	url = https://github.com/antgroup/Agent3Sigma-Stage.git
+[submodule "Agent3Sigma-Canary"]
+	path = Agent3Sigma-Canary
+	url = https://github.com/antgroup/Agent3Sigma-Canary.git
